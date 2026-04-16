@@ -26,8 +26,8 @@ Dengan alat ini, Anda bisa memiliki asisten ahli di berbagai bidang mulai dari *
 
 ### 1. Klon Repositori
 ```bash
-git clone https://github.com/username-anda/marketing-ai-chatbot.git
-cd marketing-ai-chatbot
+git (https://github.com/unobengkel/test_skill_aiagent.git)
+cd test_skill_aiagent
 ```
 
 ### 2. Buat & Aktifkan Virtual Environment
