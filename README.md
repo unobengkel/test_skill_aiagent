@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ### 4. Uji Coba Lokal
 Jalankan aplikasi untuk memastikan semuanya bekerja dengan baik:
 ```bash
-streamlit run main_1.py
+streamlit run main.py
 ```
 * Buka browser di: `http://localhost:8501`
 * Masukkan API Key Anda di sidebar.
