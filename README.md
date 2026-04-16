@@ -53,7 +53,7 @@ pip install -r requirements.txt
 ### 4. Uji Coba Lokal
 Jalankan aplikasi untuk memastikan semuanya bekerja dengan baik:
 ```bash
-streamlit run main.py
+streamlit run main.py --server.port 9000 --server.address 0.0.0.0
 ```
 * Buka browser di: `http://localhost:8501`
 * Masukkan API Key Anda di sidebar.
@@ -71,7 +71,7 @@ Untuk menjalankan aplikasi secara terus-menerus di background (seperti pada VPS 
    ```
 2. Jalankan dengan PM2:
    ```bash
-   pm2 start "streamlit run main_1.py --server.port 8501" --name marketing-ai
+   pm2 start "streamlit run main.py --server.port 9000 --server.address 0.0.0.0" --name marketing-ai
    ```
 3. Cek status: `pm2 status`
 
