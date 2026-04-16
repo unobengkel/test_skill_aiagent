@@ -1,6 +1,6 @@
 # 🚀 Marketing AI Agent (DeepSeek + Corey Haines Skills)
 
-Repositori ini berisi AI Agent khusus pemasaran yang menggunakan **DeepSeek API** sebagai otak penalaran dan framework **[Marketing Skills](https://github.com/coreyhaines31/marketingskills)** dari Corey Haines sebagai instruksi sistemnya.
+Repositori ini berisi AI Agent khusus pemasaran yang menggunakan **DeepSeek API** sebagai otak penalaran dan framework **[Marketing Skills](https://github.com/unobengkel/test_skill_aiagent.git)** dari Corey Haines sebagai instruksi sistemnya.
 
 Dengan alat ini, Anda bisa memiliki asisten ahli di berbagai bidang mulai dari *Copywriting*, *SEO*, hingga *Pricing Strategy* dalam satu antarmuka chat yang simpel.
 
